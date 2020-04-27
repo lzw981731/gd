@@ -1,4 +1,4 @@
-![GoIndex](https://raw.githubusercontent.com/donwa/goindex/master/themes/logo.png)  
+![GoIndex](https://github.com/lzw981731/gd/blob/master/themes/logo.png)  
   
 GoIndex  
 ====  
